@@ -180,8 +180,7 @@ while True:
     #Noting down the position numbers in a list
     li1.append(o_pos)
 
-    
-#Should rectify error for What if x_pos and o_pos are not numbers
+
 
 
 
